@@ -7,14 +7,15 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me  
 
-- 🔭 I’ve built a fully functional, user-friendly [Banking Web Application](https://bank-apl-with-front-and-backend.vercel.app/).
-- 🌱 Currently learning **UI/UX Design, React.js, and Backend Development** with a focus on databases.
-- 👯 I’ve also developed a [Pet Care and Adoption Web Application](https://pet-care-website-frontend.vercel.app/).
-- 👨‍💻 Check out my projects on [GitHub Repositories](https://github.com/mycode100?tab=repositories) or [Portfolio](https://mycode100.github.io/Portfolio/).
-- 💬 Ask me about **Prompt Engineering** and **Web/Android Application Design**.
-- 📫 Reach me at **mvsr26032005@gmail.com**.
+- 🔭 I’ve built a fully functional, user-friendly [Banking Web Application](https://bank-apl-with-front-and-backend.vercel.app/).  
+- 🌱 Currently learning **UI/UX Design, React.js, and Backend Development** with a focus on databases.  
+- 👯 I’ve also developed a [Pet Care and Adoption Web Application](https://pet-care-website-frontend.vercel.app/).  
+- 🛡️ Developed a **Firewall & Network Traffic Analyzer** to enhance system security through packet capture, firewall rule analysis, and AI-based threat detection.  
+- 👨‍💻 Check out my projects on [GitHub Repositories](https://github.com/mycode100?tab=repositories) or [Portfolio](https://mycode100.github.io/Portfolio/).  
+- 💬 Ask me about **Prompt Engineering**, **Web/Android Application Design**, and **Network Security Analysis**.  
+- 📫 Reach me at **mvsr26032005@gmail.com**.  
 
 ---
 
