@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ai,python,javascript,react,nodejs,mongodb,pytorch,docker,aws,linux&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,react,nodejs,mongodb,pytorch,firebase&theme=dark" alt="Tech Stack" />
 </div>
 
 <div align="center">
@@ -41,7 +41,7 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
 <td width="50%">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/computercraft/computercraft-original.svg" width="200" alt="Developer Icon"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/9496/9496161.png" width="200" alt="Developer Icon"/>
   
   **🎯 Passionate Developer**  
   **🔬 Research Enthusiast**  
@@ -73,9 +73,7 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,react,nodejs,express,mongodb,firebase&theme=dark" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,pandas,linux,git,github,vercel,docker,mysql,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,react,nodejs,mongodb,pytorch,firebase&theme=dark" />
 </div>
 
 <br>
@@ -105,14 +103,12 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🐧 **DevOps & Cloud**
+### 📚 **Currently Learning**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-### 🔄 **Currently Mastering**
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -253,20 +249,6 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mycode100&theme=github-compact&bg_color=0d1117&color=79c0ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true"/>
 </div>
 
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="50" height="50" />
-  
-  **🎖️ Achievement Gallery 🎖️**
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mycode100&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
 <div align="center">
   
   **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
@@ -278,7 +260,7 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
 ## 🌟 Professional Journey
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Journey" width="80" height="80" />
+  <img src="https://cdn-icons-png.freepik.com/512/17247/17247993.png" alt="Journey" width="80" height="80" />
   
   **🚀 Continuous Growth & Innovation 🚀**
 </div>
@@ -325,7 +307,7 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
 ## 🌐 Connect & Collaborate
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" alt="Connect" width="80" height="80" />
+  <img src="https://icons.veryicon.com/png/o/application/common-icons/connect-36.png" alt="Connect" width="80" height="80" />
   
   **🤝 Let's Build Something Amazing Together! 🤝**
 </div>
