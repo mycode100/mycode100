@@ -208,20 +208,20 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mycode100&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycode100&layout=compact&langs_count=8&theme=radical&border_radius=20"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mycode100&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycode100&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mycode100&theme=radical&border_radius=20" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=mycode100&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mycode100&theme=redical&bg_color=0d1117&color=f85d7f&line=f85d7f&point=ffc400&area=true&area_color=f85d7f&border_radius=20"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mycode100&theme=github-compact&bg_color=0d1117&color=79c0ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -233,7 +233,7 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mycode100&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mycode100&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -303,12 +303,6 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
   
 ### 💬 **"Building intelligent systems that bridge the gap between complex problems and elegant solutions"**
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
 </div>
 
 ---
