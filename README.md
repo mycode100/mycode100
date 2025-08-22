@@ -11,10 +11,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+  <img src="https://skillicons.dev/icons?i=ai,python,javascript,react,nodejs,mongodb,pytorch,docker,aws,linux&theme=dark" alt="Tech Stack" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+  
+  ⚡ **Transforming Ideas into Intelligent Solutions** ⚡
+  
+</div>
 
 ---
 
@@ -37,7 +41,12 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
 <td width="50%">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/computercraft/computercraft-original.svg" width="200" alt="Developer Icon"/>
+  
+  **🎯 Passionate Developer**  
+  **🔬 Research Enthusiast**  
+  **🤖 AI Innovator**
+  
 </div>
 
 </td>
@@ -53,20 +62,23 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+  
+  **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+  
+</div>
 
 ---
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,react,nodejs,express,mongodb,firebase&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,pandas,linux,git,github,vercel,docker,mysql,aws&theme=dark" />
 </div>
+
+<br>
 
 <div align="center">
 
@@ -108,14 +120,20 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+  
+  **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+  
+</div>
 
 ---
 
 ## 🏆 Featured Projects
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b4929e0f.gif" width="100">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Projects" width="100" height="100" />
+  
+  **🌟 Innovation Through Code 🌟**
 </div>
 
 <table>
@@ -124,34 +142,38 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
 
 ### 🔬 **Research Paper Analyzer** 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycode100/research-paper-analyser)
+![AI](https://img.shields.io/badge/AI-Powered-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
 
 > **AI-Powered Research Assistant** that revolutionizes academic paper analysis
 
-**🎯 Features:**
+**🎯 Key Features:**
 - 📄 **Smart PDF Processing** with PyMuPDF
 - 🤖 **Advanced Summarization** using LED & LLaMA-3.3-70B
 - 🔍 **Scientific Term Extraction** with DeepSeek API
 - ⭐ **Paper Scoring System** using SciBERT
 - 🌐 **Flask Web Interface** for seamless UX
 
-**Tech:** `Python` `Flask` `PyTorch` `Transformers` `Azure AI`
+**Tech Stack:** `Python` `Flask` `PyTorch` `Transformers` `Azure AI`
 
 </td>
 <td width="50%">
 
 ### 🔥 **Firewall & Network Traffic Analyzer**
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycode100/Firewall-Network-Traffic-Analyzer)
+![Security](https://img.shields.io/badge/Security-Tool-red?style=flat-square)
+![ML](https://img.shields.io/badge/ML-Integrated-orange?style=flat-square)
 
 > **Comprehensive Security Tool** for real-time network monitoring
 
-**🎯 Features:**
+**🎯 Key Features:**
 - 📡 **Real-time Packet Capture** with Scapy
 - 🛡️ **Firewall Rule Analysis** for Windows
 - 🤖 **AI-Driven Threat Detection** using Random Forest
 - 🔐 **Connection Security Analysis** with risk assessment
 - 📊 **PyQt GUI** with real-time alerts & PDF reports
 
-**Tech:** `Python` `Scapy` `PyQt` `scikit-learn` `PowerShell`
+**Tech Stack:** `Python` `Scapy` `PyQt` `scikit-learn` `PowerShell`
 
 </td>
 </tr>
@@ -160,62 +182,69 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
 
 ### 🏦 **User-Friendly Banking Application**
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycode100/User_Friendly_bank_Apl)
+![FullStack](https://img.shields.io/badge/Full--Stack-App-purple?style=flat-square)
+![React](https://img.shields.io/badge/React-Frontend-cyan?style=flat-square)
 
 > **Modern Banking Interface** with comprehensive financial management
 
-**🎯 Features:**
+**🎯 Key Features:**
 - 💳 **Secure Authentication** with Firebase Auth
 - 💰 **Credit/Debit Management** with transaction history
 - 💸 **Money Transfer System** with real-time confirmation
 - 📊 **Expense Monitoring** with visual analytics
 - 🔒 **Auto-logout Security** after inactivity
 
-**Tech:** `React.js` `Firebase` `SweetAlert2` `CSS3`
+**Tech Stack:** `React.js` `Firebase` `SweetAlert2` `CSS3`
 
 </td>
 <td width="50%">
 
 ### 🐾 **Pet Care Website**
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycode100/pet-care-website-frontend)
+![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
+![Responsive](https://img.shields.io/badge/Responsive-Design-yellow?style=flat-square)
 
 > **Full-Stack Pet Adoption Platform** connecting pets with families
 
-**🎯 Features:**
+**🎯 Key Features:**
 - 🏠 **Pet Showcase** with breed information
 - 👤 **User Management** with JWT authentication
 - 📧 **Email Integration** for notifications
 - 🖼️ **Image Upload System** with base64 storage
 - 📱 **Responsive Design** with Bootstrap
 
-**Tech:** `React.js` `Node.js` `Express` `MongoDB` `JWT`
+**Tech Stack:** `React.js` `Node.js` `Express` `MongoDB` `JWT`
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+  
+  **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+  
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="50px">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="50px">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="50px">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Analytics" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="50" height="50" />
+  
+  **📈 Performance Metrics 📈**
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mycode100&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycode100&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mycode100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=667eea&title_color=667eea&text_color=c9d1d9" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mycode100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages" width="48%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mycode100&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=mycode100&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -229,21 +258,29 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="50" height="50" />
+  
+  **🎖️ Achievement Gallery 🎖️**
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mycode100&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+  
+  **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+  
+</div>
 
 ---
 
 ## 🌟 Professional Journey
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="600"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Journey" width="80" height="80" />
+  
+  **🚀 Continuous Growth & Innovation 🚀**
 </div>
 
 <table>
@@ -277,23 +314,28 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+  
+  **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+  
+</div>
 
 ---
 
 ## 🌐 Connect & Collaborate
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/216121919-60bdf2f9-669d-4785-b13c-e4c569300872.gif" width="50">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" alt="Connect" width="80" height="80" />
+  
+  **🤝 Let's Build Something Amazing Together! 🤝**
 </div>
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=30)](https://www.linkedin.com/in/mopuru-venkata-srikanth-reddy-3010b4267/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&border_radius=30)](mailto:mvsr26032005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&border_radius=30)](https://github.com/mycode100)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mopuru-venkata-srikanth-reddy-3010b4267/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvsr26032005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycode100)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 
 </div>
 
@@ -301,19 +343,23 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
 
 <div align="center">
   
-### 💬 **"Building intelligent systems that bridge the gap between complex problems and elegant solutions"**
+### 💭 **Philosophy**
+*"Building intelligent systems that bridge the gap between complex problems and elegant solutions"*
+
+### 🌟 **Mission**
+*Leveraging technology to create innovative solutions that make a positive impact on society*
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
 </div>
 
 <div align="center">
   
-**⭐ From [Mopuru Venkata Srikanth Reddy](https://github.com/mycode100) with ❤️**
+**⭐ Crafted with ❤️ by [Mopuru Venkata Srikanth Reddy](https://github.com/mycode100) ⭐**
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmycode100&label=Profile%20Views&countColor=%23667eea&style=for-the-badge&labelColor=000000)
 
