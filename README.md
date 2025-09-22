@@ -117,8 +117,6 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
   
   **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
   
-</div>
-
 ---
 
 ## 🏆 Featured Projects
@@ -132,27 +130,32 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
 <table>
 <tr>
 <td width="50%">
+
 ### 🛍️ **Advanced E-Commerce Mobile App**
-[![GitHub-Frontend](https://img.shields.io/badge/GitHub-Frontend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycode100/E-Commerce-Frontend)
-[![GitHub-Backend](https://img.shields.io/badge/GitHub-Backend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycode100/E-Commerce-Backend)
-[![Live-Frontend](https://img.shields.io/badge/Live-Frontend-blue?style=flat-square)](https://e-commerce-kohl-beta-13.vercel.app/)
-[![Live-Backend](https://img.shields.io/badge/Live-Backend-blueviolet?style=flat-square)](https://e-commerce-backend-rktu.onrender.com/)
-![FullStack](https://img.shields.io/badge/Full--Stack-MERN-green?style=flat-square)
-> **A complete MERN stack e-commerce solution** for seamless online shopping.
+[![GitHub Frontend](https://img.shields.io/badge/GitHub-Frontend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycode100/E-Commerce-Frontend) 
+[![GitHub Backend](https://img.shields.io/badge/GitHub-Backend-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycode100/E-Commerce-Backend)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Live App](https://img.shields.io/badge/Live-App-blue?style=flat-square)
+
+> A production-ready mobile shopping platform built with a focus on advanced, user-centric features.
+
 **🎯 Key Features:**
-- 🛒 **Intuitive Shopping Experience** with product search and filters
-- 💳 **Secure Payment Gateway** for hassle-free transactions
-- 📦 **Order Management** with real-time status updates
-- 👥 **User Authentication** and profile management
-- 📱 **Fully Responsive** design for web and mobile devices
-**Tech Stack:** `React.js` `Node.js` `Express` `MongoDB`
+- 🧠 **Intelligent Recommendations** based on user behavior
+- 🔍 **Advanced Filtering & Sorting** with optimized queries
+- 🎟️ **Dynamic Coupon System** with real-time validation
+- 🏠 **Multi-Address Management** for seamless checkout
+- 📱 **Cross-Platform** functionality for iOS & Android
+
+**Tech Stack:** `React Native` `Expo` `Node.js` `Express` `MongoDB`
+
 </td>
 <td width="50%">
+
 ### 🔬 **Research Paper Analyzer** [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycode100/research-paper-analyser)
 ![AI](https://img.shields.io/badge/AI-Powered-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
 
-> **AI-Powered Research Assistant** that revolutionizes academic paper analysis
+> **AI-Powered Research Assistant** that revolutionizes academic paper analysis.
 
 **🎯 Key Features:**
 - 📄 **Smart PDF Processing** with PyMuPDF
@@ -173,7 +176,7 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
 ![Security](https://img.shields.io/badge/Security-Tool-red?style=flat-square)
 ![ML](https://img.shields.io/badge/ML-Integrated-orange?style=flat-square)
 
-> **Comprehensive Security Tool** for real-time network monitoring
+> **Comprehensive Security Tool** for real-time network monitoring.
 
 **🎯 Key Features:**
 - 📡 **Real-time Packet Capture** with Scapy
@@ -192,7 +195,7 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
 ![FullStack](https://img.shields.io/badge/Full--Stack-App-purple?style=flat-square)
 ![React](https://img.shields.io/badge/React-Frontend-cyan?style=flat-square)
 
-> **Modern Banking Interface** with comprehensive financial management
+> **Modern Banking Interface** with comprehensive financial management.
 
 **🎯 Key Features:**
 - 💳 **Secure Authentication** with Firebase Auth
@@ -212,7 +215,6 @@ I'm a passionate **CS engineering student** specializing in **Data Analysis** an
   **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
   
 </div>
-
 ---
 
 ## 📊 GitHub Analytics
